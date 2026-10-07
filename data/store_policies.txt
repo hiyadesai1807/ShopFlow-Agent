@@ -1,0 +1,69 @@
+VOLTKART STORE POLICIES
+
+VoltKart is a fictional online electronics store created for this demo project. All policies below are made up for practice.
+
+RETURN POLICY
+
+Most products can be returned within 10 days of delivery. The product must be unused, in its original packaging, and returned with all accessories, manuals and the invoice.
+
+Headphones and earbuds can be returned only if the seal is unopened, for hygiene reasons. If the seal is opened, they can be replaced only when they are defective.
+
+Laptops, smartphones, tablets and televisions have a 7 day replacement-only policy. They cannot be returned for a refund unless the replacement is also defective.
+
+Products bought during a clearance sale are final sale and cannot be returned. They are still covered by warranty.
+
+To start a return, go to My Orders, select the order and choose Return or Replace. A pickup is scheduled within 2 working days.
+
+REFUND POLICY
+
+Refunds are started after the returned product passes a quality check at our warehouse. The quality check takes up to 2 working days after pickup.
+
+Refunds to UPI and wallets take 1 to 2 working days. Refunds to credit cards, debit cards and net banking take 5 to 7 working days.
+
+For cash on delivery orders, the refund is sent to the bank account you provide, and takes 5 to 7 working days.
+
+Shipping charges are refunded only when the product is defective, damaged or different from what was ordered.
+
+SHIPPING POLICY
+
+Standard delivery takes 3 to 5 working days in metro cities and 5 to 8 working days in other locations.
+
+Standard delivery is free on orders of Rs. 499 or more. Orders below Rs. 499 have a shipping charge of Rs. 49.
+
+Express delivery takes 1 to 2 working days, is available only in metro cities and costs Rs. 99 per order.
+
+Televisions and other large products are delivered by a separate courier partner and include free installation scheduling within 2 days of delivery.
+
+We currently deliver only within India.
+
+ORDER CANCELLATION
+
+An order can be cancelled free of charge any time before it is shipped. Go to My Orders and choose Cancel.
+
+Once an order is shipped, it cannot be cancelled. You can refuse the delivery or start a return after it arrives.
+
+For cancelled prepaid orders, the full amount is refunded within 5 to 7 working days.
+
+WARRANTY POLICY
+
+All products come with a manufacturer warranty. Smartphones, laptops, tablets and televisions have a 1 year warranty. Headphones, speakers, wearables and accessories have a 6 month warranty.
+
+Warranty covers manufacturing defects only. It does not cover physical damage, liquid damage, or damage from unauthorised repair.
+
+To claim warranty, keep your invoice and contact the brand's service centre. Our support team can help you find the nearest centre.
+
+An extended warranty of 1 extra year can be bought within 30 days of delivery for smartphones, laptops and televisions.
+
+PAYMENT OPTIONS
+
+We accept UPI, credit cards, debit cards, net banking and cash on delivery.
+
+Cash on delivery is available on orders up to Rs. 20,000 and has a handling fee of Rs. 40.
+
+No-cost EMI is available on orders of Rs. 5,000 or more with selected credit cards, for 3 or 6 months.
+
+CUSTOMER SUPPORT
+
+Customer support is available from 9 AM to 9 PM, Monday to Saturday, through chat and email at support@voltkart.example.
+
+Complaints are answered within 24 hours. If a complaint is not resolved in 7 days, it can be escalated to the grievance officer through the Help page.

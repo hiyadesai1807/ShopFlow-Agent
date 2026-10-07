@@ -1,0 +1,8 @@
+# Versions this project was written and tested against (October 2026).
+langchain==1.4.3
+langchain-google-genai==4.4.0
+langchain-chroma==1.1.0
+langchain-text-splitters==1.1.3
+streamlit
+pandas
+python-dotenv

@@ -1,0 +1,11 @@
+order_id,product_name,order_date,status,expected_delivery
+ORD1001,Auro Buds Pro,2026-09-28,Delivered,2026-10-01
+ORD1002,Zenbyte Slim 14,2026-10-01,Shipped,2026-10-07
+ORD1003,Kivo PowerBank 10K,2026-10-03,Processing,2026-10-09
+ORD1004,Orbix Nova 5G,2026-10-02,Out for delivery,2026-10-06
+ORD1005,Auro Boom Mini,2026-09-25,Delivered,2026-09-29
+ORD1006,Kivo Watch Active,2026-10-04,Processing,2026-10-10
+ORD1007,Nimbus Vision 32,2026-09-30,Shipped,2026-10-08
+ORD1008,Zenbyte Wireless Mouse M2,2026-09-20,Cancelled,
+ORD1009,Orbix Tab 11,2026-09-27,Return requested,
+ORD1010,Kivo Sport Neckband,2026-10-05,Processing,2026-10-11
